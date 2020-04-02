@@ -1,0 +1,8 @@
+.content {
+  text-align: center;
+}
+
+#result {
+  margin: 20px;
+  display: none;
+}
