@@ -16,7 +16,7 @@ _This is an exercise in JavaScript to convert numbers into roman numerals._
 ## Specs
 
 | Behavior                                                                           | Input | Output        |
-|------------------------------------------------------------------------------------|-------|---------------|
+|:-----------------------------------------------------------------------------------|:-----:|--------------:|
 | If the number is <= 0, display an error.                                           | -5    | Error         |
 | If the number is > 3,999, display an error.                                        |  4310 | Error         |
 | Check the left-most digit and determine its name(ones, tens, hundreds, thousands). | 1753  | Thousands (1) |
